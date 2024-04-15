@@ -1,5 +1,5 @@
 # Capture the Flag Challenges
-These python scripts interact with different CTF websites as part of the Capture the Flag course at USF.
+These python scripts interact with different open source CTF websites.
 
 websiteattack.py performs an SQL injection into a CTF website in order to obtain flags.
 
